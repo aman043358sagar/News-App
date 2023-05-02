@@ -1,7 +1,7 @@
 # News-App
-This app uses the iTextPDF 5 library to extract all the text from a user-selected PDF file and read it using text to speech. 
+This app shows that how to use newsapi and google firebase auth to make news articles app. 
 
-[![Download APK](https://github.com/aman043358sagar/News-App/blob/master/apk/app-debug.apk?raw=true)
+[![Download APK(https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/aman043358sagar/News-App/blob/master/apk/app-debug.apk?raw=true)
 
 ## Built using
 - [Kotlin 💙](https://kotlinlang.org/) - Official programming language for Android development.
